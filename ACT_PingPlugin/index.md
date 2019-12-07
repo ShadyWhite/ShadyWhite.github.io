@@ -11,7 +11,7 @@
 - [ping_oneline.html](ping_oneline.html)
 
 1行レイアウトの場合は、下記のavg変数を使用して、表示される情報を1つだけにすることをおすすめします。  
-例: `https://qitana.github.io/ACT_PingPlugin/ping_oneline.html?avg=30`
+例: `https://ShadyWhite.github.io/ACT_PingPlugin/ping_oneline.html?avg=30`
 
 ## avg変数について
 
