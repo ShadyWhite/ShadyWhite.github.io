@@ -4,7 +4,7 @@
 
 ### 标准布局
 
-- [ping.html](ping_oneline.html)
+- [ping.html](ping.html)
 
 ### 单行布局
 
