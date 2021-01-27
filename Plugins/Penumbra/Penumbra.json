@@ -9,11 +9,11 @@
     "Tags": [ "modding" ],
     "DalamudApiLevel": 69420,
     "LoadPriority": 69420
-    "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ShadyWhite/ShadyWhite.github.io/master/Plugins/Penumbra/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ShadyWhite/ShadyWhite.github.io/master/Plugins/Penumbra/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ShadyWhite/ShadyWhite.github.io/master/Plugins/Penumbra/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "1611541841"
 }
